@@ -1,0 +1,11 @@
+.backgroundColor{
+    background-color: red;
+}
+
+.selectButton{
+    width: 600px;
+}
+
+.inputsContainer{
+    display: flex;
+}
